@@ -43,3 +43,8 @@ sd_h <- 3.3
 mike_h <- 5.7
 jim_h <- 6.4
 
+pnorm(1, mean=3, sd=5)
+pn<-pnorm(-.8944)
+find_v <- 1-pn
+hist(rnorm(1000, mean=3,sd=5))
+

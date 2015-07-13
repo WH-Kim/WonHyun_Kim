@@ -9,7 +9,7 @@ for (i in 1:1000){
   mean_x[i] <- mx
 }
 
-mean_x
+mean_x 
 hist(mean_x, freq=F)
 
 mean(mean_x)

@@ -3,7 +3,7 @@
 x1 <- sample(1:6, 10, replace = T)
 y1 <- sample(1:6, 10, replace = T)   
 
-
+ 
 result1 <- x1+y1
 
 hist(result1,freq=F)
